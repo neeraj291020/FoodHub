@@ -1,0 +1,59 @@
+.card{
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 80px;
+
+}
+.hello{
+    display: inline-block;
+
+}
+.gcd{
+    margin-left: 530px;
+    margin-top: 20px;
+}
+.card-img-top{
+    height: 200px;
+    width: 200px;
+}
+.world {
+    color:navy;
+    font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Lobster Two', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Playfair Display', serif;
+
+}
+.neeraj{
+    color:
+    #068DA9
+
+    ;
+    font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+margin-top: 40px;
+
+
+}
+.world2 {
+    color:#1F6E8C;
+font-family: 'Oswald', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Playfair Display', serif;
+margin-top: 40px;
+
+}
+.karan{
+    color:#22A699;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+
+
+margin-top: 40px;
+
+}
